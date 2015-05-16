@@ -20,3 +20,10 @@ Ich habe kleine Verbesserungen in diesen Dateien vorgenommen:
    
    
  Ich habe alle Veränderungen auch im Code mit Kommentaren markiert und erklärt. :)
+
+
+<b> Screenshot: </b>
+
+![Alt text](http://s04.justpaste.it/files/justpaste/d224/a9151206/file1.png "Drawer geöffnet")
+![Alt text](http://s02.justpaste.it/files/justpaste/d224/a9151225/file1.png "Drawer geschlossen")
+
