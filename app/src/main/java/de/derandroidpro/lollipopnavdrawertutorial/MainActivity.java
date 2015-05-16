@@ -31,6 +31,14 @@ public class MainActivity extends ActionBarActivity {
         drawerLayoutgesamt = (DrawerLayout) findViewById(R.id.drawerlayoutgesamt);
         drawerToggle = new ActionBarDrawerToggle(MainActivity.this,drawerLayoutgesamt,R.string.auf, R.string.zu);
         drawerLayoutgesamt.setDrawerListener(drawerToggle);
+
+        ///////////WICHTIGE INFORMATION!!!!/////////// (Commit 16.05.2015)
+        // Seit einem Android SDK Update wird das DrawerToggle nur noch angezeigt,
+        // wenn ihr die folgenden 2 Zeilen Code schreibt, nachdem ihr dem Drawerlayout den DrawerListener gesetzt habt:
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        drawerToggle.syncState();
+
     }
 
 

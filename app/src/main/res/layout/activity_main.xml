@@ -21,14 +21,20 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:id="@+id/activitylayout"
-            android:fitsSystemWindows="true"
+
             >
+
+            <!-- INFORMATION (Commit 16.05.2015)
+            schreibt die Zeile  android:fitsSystemWindows="true"  besser bei der ToolBar,
+            und NICHT beim ganzen Layout, damit die Transparente Statusleise die Farbe der ToolBar erhält! :)
+            -->
 
             <android.support.v7.widget.Toolbar
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/toolbar1"
                 android:background="#ffd3d3d3"
+                android:fitsSystemWindows="true"
 
                 >
 
