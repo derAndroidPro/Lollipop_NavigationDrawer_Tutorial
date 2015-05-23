@@ -4,7 +4,7 @@ http://youtu.be/P96IT9s3Tts
 
 
 
-<b> WICHTIG, ICH HABE DIESES PROJEKT LEICH VERBESSERT:
+<b> WICHTIG, ICH HABE DIESES PROJEKT LEICHT VERBESSERT:
 
  2 Commit (16.05.2015): </b>
 
@@ -24,6 +24,8 @@ Ich habe kleine Verbesserungen in diesen Dateien vorgenommen:
 
 <b> Screenshots: </b>
 
-![Alt text](http://s04.justpaste.it/files/justpaste/d224/a9151206/file1.png "Drawer geöffnet")
-![Alt text](http://s02.justpaste.it/files/justpaste/d224/a9151225/file1.png "Drawer geschlossen")
+<img src="http://s04.justpaste.it/files/justpaste/d224/a9151206/file1.png" height="500px"/>
+<img src="http://s02.justpaste.it/files/justpaste/d224/a9151225/file1.png" height="500px"/>
+
+
 
